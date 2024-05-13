@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/hashtaggenerator",
+  "version": "1.0.0",
+  "description": "Hashtag Generator is a simple tool for generating hashtags. It returns a list of hashtags based on the text provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/hashtaggenerator-API.git"
+  },
+  "keywords": [
+    "hashtag generator"," hashtag generator api"," hashtag generator tool"," hashtag generator software"," hashtag generator service"," hashtag generator library"," hashtag generator sdk"," hashtag generator code"," hashtag generator script"," hashtag generator program"," hashtag generator application"," hashtag generator app"," hashtag generator utility"," hashtag generator helper"," hashtag generator helper tool"," hashtag generator helper software"," hashtag generator helper service"," hashtag generator helper library"," hashtag generator helper sdk"," hashtag generator helper code"," hashtag generator helper script"," hashtag generator helper program"," hashtag generator helper application"," hashtag generator helper app"," hashtag generator helper utility"," hashtag generator helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/hashtaggenerator-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/hashtaggenerator-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}

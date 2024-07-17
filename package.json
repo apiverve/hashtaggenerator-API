@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/hashtaggenerator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hashtag Generator is a simple tool for generating hashtags. It returns a list of hashtags based on the text provided.",
   "main": "index.js",
   "scripts": {

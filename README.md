@@ -80,7 +80,8 @@ api.execute(query, function (error, data) {
       "#embark",
       "#journey"
     ]
-  }
+  },
+  "code": 200
 }
 ```
 
